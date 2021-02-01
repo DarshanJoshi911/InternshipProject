@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">995488099866-f9iik9ba0c395jhqc1l029qig609de0s.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">995488099866</string>
+    <string name="google_api_key" translatable="false">AIzaSyBj3OtcXWX5hliizg-a2xxTgjuPPyQpla4</string>
+    <string name="google_app_id" translatable="false">1:995488099866:android:e9a49f63c1209ab7196ba3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBj3OtcXWX5hliizg-a2xxTgjuPPyQpla4</string>
+    <string name="google_storage_bucket" translatable="false">quizfun-47dd8.appspot.com</string>
+    <string name="project_id" translatable="false">quizfun-47dd8</string>
+</resources>
