@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "995488099866",
+    "project_id": "quizfun-47dd8",
+    "storage_bucket": "quizfun-47dd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995488099866:android:e9a49f63c1209ab7196ba3",
+        "android_client_info": {
+          "package_name": "com.example.team4internship.quizfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995488099866-3al1urv1qo98b1nrg12veal46uql9afm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.team4internship.quizfun",
+            "certificate_hash": "b93942a3584589acb33086c65c0cb6683d0a9a60"
+          }
+        },
+        {
+          "client_id": "995488099866-f9iik9ba0c395jhqc1l029qig609de0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3OtcXWX5hliizg-a2xxTgjuPPyQpla4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995488099866-f9iik9ba0c395jhqc1l029qig609de0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
