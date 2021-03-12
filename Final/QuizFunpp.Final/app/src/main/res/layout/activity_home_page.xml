@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".HomePage">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/grey"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+
+    </androidx.appcompat.widget.Toolbar>
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/catGridvie"
+        android:gravity="center"
+        android:columnWidth="100dp"
+        android:numColumns="2"
+        ></GridView>
+
+</LinearLayout>
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:orientation="vertical"-->
+<!--    tools:context=".HomePage">-->
+
+
+<!--    <androidx.appcompat.widget.Toolbar-->
+<!--        android:id="@+id/toolbar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="?attr/actionBarSize"-->
+<!--        android:background="@color/grey"-->
+<!--        android:theme="@style/ThemeOverlay.AppCompat.Dark">-->
+
+
+<!--    </androidx.appcompat.widget.Toolbar>-->
+
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_weight="1"-->
+<!--        android:id="@+id/catGridview"-->
+<!--        android:gravity="center"></androidx.recyclerview.widget.RecyclerView>-->
+
+
+<!--&lt;!&ndash;        <GridView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/catGridview"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:gravity="center"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:columnWidth="100dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:numColumns="2"&ndash;&gt;-->
+<!--&lt;!&ndash;        ></GridView>&ndash;&gt;-->
+
+<!--</LinearLayout>-->
